@@ -1,0 +1,50 @@
+{
+  "_from": "https://www.atom.io/api/packages/tabularize/versions/0.2.5/tarball",
+  "_id": "tabularize@0.2.5",
+  "_inBundle": false,
+  "_integrity": "sha512-DD9xyu/RzqOvFrtgpEZcxmc3/TruhRNLv3Pic/7vUg9IX9Mrb0kSo2x2dt+8y5/Mu3Z7YW6rSpbekKfzs6D/zQ==",
+  "_location": "/tabularize",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/tabularize/versions/0.2.5/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/tabularize/versions/0.2.5/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/tabularize/versions/0.2.5/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/tabularize/versions/0.2.5/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/tabularize/versions/0.2.5/tarball",
+  "_shasum": "a3fd34ad54daa225645b8efe7ea590f25dd20f6f",
+  "_spec": "https://www.atom.io/api/packages/tabularize/versions/0.2.5/tarball",
+  "_where": "C:\\Users\\NO1\\AppData\\Local\\Temp\\apm-install-dir-11969-2468-1wvdj6d.o6gt",
+  "activationCommands": {
+    "atom-text-editor": [
+      "tabularize:toggle"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/pcasaretto/atom-tabularize/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.0",
+    "underscore": "1.x"
+  },
+  "deprecated": false,
+  "description": "Atom package for text alignment",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/pcasaretto/atom-tabularize#readme",
+  "license": "MIT",
+  "main": "./lib/tabularize-view",
+  "name": "tabularize",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcasaretto/atom-tabularize.git"
+  },
+  "version": "0.2.5"
+}
