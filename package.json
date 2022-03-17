@@ -9,6 +9,12 @@
   "name": "regex-aligner",
   "repository": "https://github.com/bacadra/atom-regex-aligner.git",
   "version": "0.0.2",
+  "keywords": [
+    "bacadra",
+    "regex",
+    "align",
+    "tabularize"
+  ],
   "dependencies": {
     "underscore": "^1.13.2"
   }
