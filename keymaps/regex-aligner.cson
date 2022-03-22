@@ -1,2 +1,2 @@
 'atom-text-editor:not([mini])':
-  'alt-a' : 'regex-aligner:toggle'
+  'alt-w' : 'regex-aligner:toggle'
