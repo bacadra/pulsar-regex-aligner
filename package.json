@@ -4,7 +4,7 @@
   "deprecated": false,
   "description": "Atom package for text alignment",
   "homepage": "https://github.com/bacadra/atom-regex-aligner#readme",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "main": "./lib/main",
   "name": "regex-aligner",
   "repository": "https://github.com/bacadra/atom-regex-aligner.git",
