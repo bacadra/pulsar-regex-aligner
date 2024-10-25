@@ -2,7 +2,7 @@
   "bugs": "https://github.com/bacadra/pulsar-regex-aligner/issues",
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "Atom package for text alignment",
+  "description": "Align text using regular expression or simply align multiple cursors",
   "homepage": "https://github.com/bacadra/pulsar-regex-aligner#readme",
   "license": "MIT",
   "main": "./lib/main",
