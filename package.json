@@ -8,7 +8,7 @@
   "main": "./lib/main",
   "name": "regex-aligner",
   "repository": "https://github.com/bacadra/pulsar-regex-aligner.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "bacadra",
     "regex",
