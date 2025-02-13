@@ -3,9 +3,8 @@
   "description": "Align text using regular expression or simply align multiple cursors",
   "repository": "https://github.com/bacadra/pulsar-regex-aligner.git",
   "keywords": [
-    "bacadra",
     "regex",
-    "align",
+    "aligner",
     "tabularize"
   ],
   "version": "1.0.1",
