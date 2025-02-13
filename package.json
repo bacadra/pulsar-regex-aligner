@@ -1,23 +1,19 @@
 {
-  "bugs": "https://github.com/bacadra/pulsar-regex-aligner/issues",
-  "bundleDependencies": false,
-  "deprecated": false,
-  "description": "Align text using regular expression or simply align multiple cursors",
-  "homepage": "https://github.com/bacadra/pulsar-regex-aligner#readme",
-  "license": "MIT",
-  "main": "./lib/main",
   "name": "regex-aligner",
+  "description": "Align text using regular expression or simply align multiple cursors",
   "repository": "https://github.com/bacadra/pulsar-regex-aligner.git",
-  "version": "1.0.1",
   "keywords": [
     "bacadra",
     "regex",
     "align",
     "tabularize"
   ],
+  "version": "1.0.1",
+  "license": "MIT",
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
   },
+  "main": "./lib/main",
   "activationCommands": {
     "atom-text-editor:not([mini])": [
       "regex-aligner:toggle",
