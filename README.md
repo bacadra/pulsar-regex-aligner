@@ -4,7 +4,7 @@ Align text using regular expression or simply align multiple cursors.
 
 ## Installation
 
-To install `regex-aligner` search for [regex-aligner](https://web.pulsar-edit.dev/packages/regex-aligner) in the Install pane of the Pulsar settings or run `ppm install regex-aligner`. Alternatively, you can run `ppm install bacadra/pulsar-regex-aligner` to install a package directly from the Github repository.
+To install `regex-aligner` search for [regex-aligner](https://web.pulsar-edit.dev/packages/regex-aligner) in the Install pane of the Pulsar settings or run `ppm install regex-aligner`. Alternatively, you can run `ppm install asiloisad/pulsar-regex-aligner` to install a package directly from the Github repository.
 
 ## Methods
 
