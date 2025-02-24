@@ -18,8 +18,5 @@
       "regex-aligner:toggle",
       "regex-aligner:simple"
     ]
-  },
-  "dependencies": {
-    "underscore": "^1.13.2"
   }
 }
